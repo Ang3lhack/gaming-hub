@@ -1,0 +1,14 @@
+# Entornos virtuales
+venv/
+env/
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+
+# Base de datos local
+database.db
+
+# Archivos subidos localmente (Opcional, pero recomendado)
+app/static/uploads/*
+!app/static/uploads/.gitkeep

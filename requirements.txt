@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+sqlmodel
+python-multipart
+redis
+fastapi-cache2[redis]
