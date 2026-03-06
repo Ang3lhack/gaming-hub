@@ -16,7 +16,12 @@ Este proyecto demuestra la implementación de una arquitectura organizada, valid
 * **Despliegue:** Render.com
 
 ---
+<p aling= "center">
 
+<img width="1811" height="971" alt="gamin" src="https://github.com/user-attachments/assets/7dfdd720-966c-443e-afb6-7a876c15781d" />
+
+  
+</p>
 ## 💻 Instrucciones de Instalación Local (Windows)
 
 ### 1. Preparar el entorno
@@ -30,4 +35,5 @@ python -m venv venv
 
 # Activar el entorno virtual
 .\venv\Scripts\Activate.ps1
-<img width="1811" height="971" alt="gamin" src="https://github.com/user-attachments/assets/02bd292e-6cd3-4e08-82b2-cfb91b4ef591" />
+
+
